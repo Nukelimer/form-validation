@@ -1,0 +1,10 @@
+.true{
+    border: 2px solid green;
+  }
+  .red{
+    border: 2px solid red;
+    width: 100%;
+    padding: 1.5em;
+    border: 1px solid black;
+    border-radius: 7px;
+  }

@@ -1,0 +1,39 @@
+.label {
+  font-size: 1.2em;
+  text-align: left;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.input {
+  width: 100%;
+  padding: 1.5em;
+  border: 1px solid black;
+  border-radius: 7px;
+  /* align-self: center; */
+}
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 1.2em 1.2em;
+  background: green;
+  width: 50%;
+  margin-top: 3em;
+  border-radius: 7px;
+  color: azure;
+  border: none;
+}
+
+.true{
+  border: 2px solid green;
+}
+.red{
+  border: 2px solid red;
+}
